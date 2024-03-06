@@ -14,7 +14,7 @@ This project is a simple contact form built with React and Vite.
 - [Installation](#installation)
 - [Run the Project](#run-the-project)
 
-## Clone the Repository
+# Clone the Repository
 
 To get started with the project, clone the repository to your local machine using the following command:
 
@@ -42,10 +42,17 @@ Once the dependencies are installed, you can run the project with the following 
 
 npm run dev
 ```
-JavaScript
-  <form method="post" action="**https://script.google.com/macros/s/AKfycbx_n7v-omFKeNzOvPxWpiqeWlCueDTX4rfPYnNMdJzi84dVo2vwWbwqTAvaLUzifA8O/exec**" className="contact-form">
-Use code with caution.
+<br>
 
+# Integrated Google Sheet for Data
+
+This project utilizes a Google Sheet to store and manage data submitted through the contact form. You can view and analyze the data in the following Google Sheet:
+
+[View Google Sheet](https://docs.google.com/spreadsheets/d/1l0A8MSkvsI8d_0NdrSoIL4A3YLiqRJBbTa50tFcqaDo/edit?usp=sharing)
+
+Feel free to explore the data and make any necessary updates or modifications to the Google Sheet as needed for your project.
+
+<br><br>
 ![Alt text](public/Screenshot.png)
 
 Features:
