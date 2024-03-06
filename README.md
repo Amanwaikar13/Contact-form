@@ -33,5 +33,5 @@ JavaScript
   <form method="post" action="**https://script.google.com/macros/s/AKfycbx_n7v-omFKeNzOvPxWpiqeWlCueDTX4rfPYnNMdJzi84dVo2vwWbwqTAvaLUzifA8O/exec**" className="contact-form">
 Use code with caution.
 
-![Alt text](public/images/Screenshot.png)
+![Alt text](./src/Screenshot.png)
 
