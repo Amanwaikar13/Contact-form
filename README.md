@@ -62,8 +62,4 @@ Form Validation: Basic form validation ensures required fields are filled.
 Error Handling: Displays error messages for failed form submissions.
 Google Apps Script Integration: Uses Google Apps Script as a backend to submit data to Google Sheets.
 
-Deploy the React application to your preferred hosting platform (e.g., Netlify, Vercel).
-
-Update the action attribute in the form element within the ContactForm component with the URL of your deployed Google Apps Script that handles form submission (replace the placeholder with the actual URL):
-
 
